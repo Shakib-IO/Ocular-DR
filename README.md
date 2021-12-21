@@ -6,4 +6,7 @@ This dataset is meant to represent ‘‘real-life’’ set of patient informat
 Annotations were labeled by trained human readers with quality control management. They classify patient into eight labels including:```
 
 
+---
+
+
 [Dataset](https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k)
