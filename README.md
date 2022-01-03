@@ -14,5 +14,4 @@ Annotations were labeled by trained human readers with quality control managemen
 - Other diseases/abnormalities (O)
 
 
-
 > [Dataset](https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k)
