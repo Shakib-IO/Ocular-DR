@@ -18,4 +18,4 @@ Annotations were labeled by trained human readers with quality control managemen
 
 Dataset distribution
 
-<img src= "">
+<img src= "https://github.com/Shakib-IO/Oculus-DR/blob/main/figure/data.png">
