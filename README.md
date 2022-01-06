@@ -16,6 +16,6 @@ Annotations were labeled by trained human readers with quality control managemen
 
 > [Dataset](https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k)
 
-Dataset distribution
+*Dataset distribution*
 
 <img src= "https://github.com/Shakib-IO/Oculus-DR/blob/main/figure/data.png">
