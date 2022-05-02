@@ -22,4 +22,4 @@ Annotations were labeled by trained human readers with quality control managemen
 
 **Proposed System**
 
-<img src = "https://github.com/Shakib-IO/Oculus-DR/blob/main/figure/Figure%2001.jpg">
+<img src = "https://github.com/Shakib-IO/Oculus-DR/blob/main/figure/Figure%2001.jpg" width="500" height="600">
