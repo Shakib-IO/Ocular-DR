@@ -1,4 +1,4 @@
-# Oculus-DR
+# [Deep Learning for Ocular Disease Recognition: An Inner-Class Balance](https://www.hindawi.com/journals/cin/2022/5007111/)
 
 Ocular Disease Intelligent Recognition (ODIR) is a structured ophthalmic database of 5,000 patients with age, color fundus photographs from left and right eyes and doctors' diagnostic keywords from doctors.
 
